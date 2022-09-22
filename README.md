@@ -13,10 +13,10 @@ https://pitt-my.sharepoint.com/:o:/r/personal/tad85_pitt_edu/Documents/Sailbot%2
 1. contains odrive object and initialization values
 2. setting odrive.pos will change motor position
 
-### transciver
+### transceiver
 1. contains arduino class which:
-2. sends messages to other transciver
-3. reads messages sent from other transciver
+2. sends messages to other transceiver
+3. reads messages sent from other transceiver
 
 ### windvane
 1. contains windvane class with property angle
